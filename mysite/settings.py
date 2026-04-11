@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'lalafo_app',
     'rest_framework',
     "phonenumber_field",
+    'django_filters',
 ]
 
 MIDDLEWARE = [
